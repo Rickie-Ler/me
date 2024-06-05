@@ -1,4 +1,11 @@
 TODO: Reflect on what you learned this week and what is still unclear.
+think a lot about what future you would like present you to do
+writing as a process of thinking
+eventhough I'm still confused but it's fun to learn
+repo. repository
+dr. direction
+Inconclusion this is my rewrite readme.md because I accidently delete my previous one this afternoon
+
 according to my first programming I had learn that need to test after done my first programming
 to be honest I still unclear of the word commit, push it's similar to google drive but I still confuse
 I know programming think first before type and always save my work
